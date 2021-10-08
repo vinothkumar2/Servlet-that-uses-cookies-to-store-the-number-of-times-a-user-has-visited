@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>VisitServlet</servlet-name>
+<servlet-class>visit</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>VisitServlet</servlet-name>
+<url-pattern>/VS</url-pattern>
+</servlet-mapping>
+</web-app>
